@@ -1,7 +1,7 @@
 {
     "passwords": {
-        "luckyms": {
-            "expires_at": "2026-09-20T15:00:00Z",
+        "ms": {
+            "expires_at": "2026-09-22T15:00:00Z",
             "plan": "7day"
         },
         "ms3": {
