@@ -1,10 +1,10 @@
 {
     "passwords": {
-        "helloms": {
+        "luckyms": {
             "expires_at": "2026-09-20T15:00:00Z",
             "plan": "7day"
         },
-        "ms2": {
+        "ms3": {
             "expires_at": "2026-10-15T15:00:00Z",
             "plan": "1month"
         }
