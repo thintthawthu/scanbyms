@@ -1,11 +1,11 @@
 {
     "passwords": {
         "ms": {
-            "expires_at": "2026-09-22T15:00:00Z",
+            "expires_at": "2026-09-20T15:00:00Z",
             "plan": "7day"
         },
         "ms3": {
-            "expires_at": "2026-10-15T15:00:00Z",
+            "expires_at": "2026-08-15T15:00:00Z",
             "plan": "1month"
         }
     }
